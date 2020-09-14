@@ -42,21 +42,21 @@ steamPage:
 
         Purchasing the game gives you access to the standalone version which has additional features and you'll also receive access to newly developed features.
 
-        [b]Standalone Advantages[/b]
+        [b]Fördelar från den fristående versionen[/b]
 
         [list]
-            [*] Dark Mode
-            [*] Unlimited Waypoints
-            [*] Unlimited Savegames
-            [*] Additional settings
-            [*] Coming soon: Wires & Energy! Aiming for (roughly) end of July 2020.
-            [*] Coming soon: More Levels
-            [*] Allows me to further develop shapez.io ❤️
+            [*] Mörkläge
+            [*] Oändliga Vägpunkter
+            [*] Oändliga Savegames
+            [*] Mer inställningar
+            [*] Kommer snart: Ledningar & Energi! Siktar på (cirka) slutet av Juli 2020.
+            [*] Kommer snart: Mer nivåer
+            [*] Tillåter mig att fortsätta utveckla shapez.io ❤️
         [/list]
 
-        [b]Future Updates[/b]
+        [b]Framtida uppdateringar[/b]
 
-        I am updating the game very often and trying to push an update at least every week!
+        Jag uppdaterar spelet väldigt ofta och försöker att få ut en uppdatering minst varje vecka!
 
         [list]
             [*] Different maps and challenges (e.g. maps with obstacles)
@@ -68,12 +68,12 @@ steamPage:
             [*] And much more!
         [/list]
 
-        [b]This game is open source![/b]
+        [b]Det här spelet är open source![/b]
 
-        Anybody can contribute, I'm actively involved in the community and attempt to review all suggestions and take feedback into consideration where possible.
-        Be sure to check out my trello board for the full roadmap!
+        Vem som helst kan bidra, Jag är aktivt inblandad i kommunen och försöker att gå igenom alla förslag och ta feedback till hänsyn när det är möjligt.
+        Kolla min trellobräda för hela färdplanen.!
 
-        [b]Links[/b]
+        [b]Länkar[/b]
 
         [list]
             [*] [url=https://discord.com/invite/HN7EVzV]Official Discord[/url]
@@ -83,11 +83,11 @@ steamPage:
             [*] [url=https://github.com/tobspr/shapez.io/blob/master/translations/README.md]Help translate[/url]
         [/list]
 
-    discordLink: Official Discord - Chat with me!
+    discordLink: Officiella Discord-servern - Chatta med mig!
 
 global:
     loading: Laddar
-    error: Error
+    error: Fel
 
     # How big numbers are rendered, e.g. "10,000"
     thousandsDivider: "."
